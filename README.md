@@ -1,6 +1,9 @@
 # CanteenShopAnalysis
 
 DESCRIPION :
+This Dataset is available in Kaggle :
+https://www.kaggle.com/datasets/susanta21/canteen-shop-transaction-data ,
+
 This dataset contains transaction records from a canteen shop, providing insights into customer purchasing behavior, payment methods, employee interactions, customer satisfaction ratings, and weather conditions. Each transaction is recorded with details such as the date, time, item purchased, price, quantity, total amount, customer ID, payment method, employee ID, customer satisfaction rating, weather condition at the time of purchase, and whether any special offers were provided.
 
 OBJECTIVE : 
